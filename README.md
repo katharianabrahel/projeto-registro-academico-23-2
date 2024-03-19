@@ -1,12 +1,11 @@
-<h1 align="center">
+<h1 align="center: justify">
     Acervo Acadêmico Digital</h1>
 
 ## :memo: Descrição
-Este repositório contém o plano de implementação para o projeto Acervo Acadêmico Digital. O projeto foi desenvolvido como parte de um projeto disciplinar e de extensãor que unificou três disiscplinas, Gestão de processo de negócios, Planejamento e gerenciamento de projetos e Sistema de gestão de empresarial, no curso de sistema de informação. O objetivo principal é resolver o problema relacionado ao acervo acadêmico do IFPE.
+<p style="text-align: justify;">Este repositório contém o plano de implementação para o projeto Acervo Acadêmico Digital. O projeto foi desenvolvido como parte de um projeto disciplinar e de extensãor que unificou três disiscplinas, Gestão de processo de negócios, Planejamento e gerenciamento de projetos e Sistema de gestão de empresarial, no curso de sistema de informação. O objetivo principal é resolver o problema relacionado ao acervo acadêmico do IFPE.</p>
 
 ## :gear: Metodologia
-Scrum adaptado
-Kanban
+Scrum adaptado<br>Kanban
 
 ## :trophy: Equipe 06
 
