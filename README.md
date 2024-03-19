@@ -1,7 +1,12 @@
-<h1 align="center">Registro Acadêmico</h1>
+<h1 align="center">
+    Acervo Acadêmico Digital</h1>
 
 ## :memo: Descrição
-Repositório para entregas solicitadas das disciplinas Gestão de Processos de Negócio, Sistemas de Gestão Empresarial e Planejamento e Gerenciamento de Projetos
+Este repositório contém o plano de implementação para o projeto Acervo Acadêmico Digital. O projeto foi desenvolvido como parte de um projeto disciplinar e de extensãor que unificou três disiscplinas, Gestão de processo de negócios, Planejamento e gerenciamento de projetos e Sistema de gestão de empresarial, no curso de sistema de informação. O objetivo principal é resolver o problema relacionado ao acervo acadêmico do IFPE.
+
+## :gear: Metodologia
+Scrum adaptado
+Kanban
 
 ## :trophy: Equipe 06
 
